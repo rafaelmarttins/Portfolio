@@ -13,7 +13,7 @@ function Home() {
         <h2> Olá, Meu Nome é Rafael</h2>
         <div className="prompt">
           <p>
-            Um desenvolvedor de software back-end apaixonado por aprender e
+            Um desenvolvedor de software fullstack apaixonado por aprender e
             codar.
           </p>
           <a href="https://www.linkedin.com/in/rafaamartins/">

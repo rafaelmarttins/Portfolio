@@ -18,7 +18,7 @@ function Footer() {
           <LinkedInIcon />
         </a>
       </div>
-      <p> &copy; 2023 rafaamartins.netlify.app</p>
+      <p> &copy; 2023 Todos os direitos reservados.</p>
     </div>
   );
 }

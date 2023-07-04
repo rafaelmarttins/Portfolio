@@ -7,9 +7,9 @@ import Proj6 from "../assets/proj6.png";
 
 export const ProjectList = [
   {
-    name: "Carregando...",
+    name: "Notes",
     image: Proj1,
-    skills: "???",
+    skills: "ReactJS, Styled Components",
   },
   {
     name: "Carregando...",
