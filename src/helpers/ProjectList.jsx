@@ -10,6 +10,7 @@ export const ProjectList = [
     name: "Notes",
     image: Proj1,
     skills: "ReactJS, Styled Components",
+    link: "https://github.com/rafaelmarttins/notes-frontend-react",
   },
   {
     name: "Carregando...",
